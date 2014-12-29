@@ -50,3 +50,9 @@ nosetests.xml
 
 # PyCharm config
 .idea
+
+# Custom
+settings.py
+*.log
+*.log.old
+src
